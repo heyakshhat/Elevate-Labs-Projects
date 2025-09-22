@@ -51,7 +51,7 @@ public class Calculator {
             int choice = scanner.nextInt();
 
             if (choice == 5) {
-                System.out.println("Thank you for using the calculator. Goodbye!");
+                System.out.println("Thank you for using the calculator.");
                 continueCalculating = false;
                 continue;
             }
